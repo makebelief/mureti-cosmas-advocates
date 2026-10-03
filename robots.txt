@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mureti-cosmas-advocates.vercel.app/sitemap.xml
